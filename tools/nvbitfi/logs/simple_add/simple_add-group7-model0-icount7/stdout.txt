@@ -1,0 +1,4 @@
+Device 0 (Tesla P40) is being used
+memory: 22.3819 GB ECC on 30 SMs x1531000
+#CTAs=10, nreps=10, threads/CTA=1024
+global sum = 102400 

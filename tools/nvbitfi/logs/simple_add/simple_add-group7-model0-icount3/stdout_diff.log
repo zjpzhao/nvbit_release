@@ -1,0 +1,4 @@
+4c4
+< global sum = 135040 
+---
+> global sum = 102400 
